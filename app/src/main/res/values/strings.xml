@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inventory stage 1</string>
+    <string name="wait_for_data_display">wait for data display</string>
+    <string name="product_name">product name</string>
+    <string name="product_price">product price</string>
+    <string name="product_quantity">product quantity</string>
+    <string name="product_supplier_name">product supplier name</string>
+    <string name="product_supplier_phone_number">product supplier phone number</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="add_product">add a new product from editor activity</string>
+    <string name="delete_all_entries">delete all entries</string>
+    <string name="insert_dummy_data">insert dummy data</string>
+    <string name="delete_data">goto your device setting application and click on App-Inventory stage 1-Memory-CLEAR DATA></string>
+    <string name="rows_number">in book_store database there are : </string>
+    <string name="products"> products \n\n</string>
+</resources>
